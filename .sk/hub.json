@@ -1,0 +1,164 @@
+{
+  "titulo": "índice",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "1.html",
+      "nome": "Numerador de Códigos",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "2.html",
+      "nome": "Multi-Projetos PWA — Maikon Caldeira",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "3.html",
+      "nome": "AI Code Studio",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "4.html",
+      "nome": "Comparador de Versões",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "5.html",
+      "nome": "Comparador de Versões",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "6.html",
+      "nome": "Laboratório HTML",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "7.html",
+      "nome": "Backup para o HD",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "8.html",
+      "nome": "Raio-X de Pacotes",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "9.html",
+      "nome": "Raio-X de Pacotes",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "11.html",
+      "nome": "SK Oficina Jurídica v4 - Maikon Caldeira",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "12.html",
+      "nome": "Chat IA Pro — Saulo",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "13.html",
+      "nome": "Backup para o HD",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "14.html",
+      "nome": "Catalogador de Códigos",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "15.html",
+      "nome": "Juntador de Arquivos",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "16.html",
+      "nome": "Projeto Lab",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "17.html",
+      "nome": "Organizador de Documentos",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "18.html",
+      "nome": "Guia dos Apps do Maikon",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "19.html",
+      "nome": "Manual do Maikon",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "20.html",
+      "nome": "Triagem de Código",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "21.html",
+      "nome": "📱 Gerenciador de PWA",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "23.html",
+      "nome": "Raio-X de Projetos",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "index.html",
+      "nome": "Maikon Caldeira — Aplicativos",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
